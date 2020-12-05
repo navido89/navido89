@@ -1,4 +1,4 @@
-### Hi there! 👋 
+### Hi there and welcome to my profile 👋 !
 
 I am Navid Mashinchi a Data Scientist based in Sacramento, California. I have been working in the field of analytics for more than four years and have been loving every second of it. I am a highly motivated individual who always loves to learn new technologies and solve problems. I focus on analyzing large sets of data and creating machine learning models with the goal to help businesses to make better decisions. I am experienced in: 
 
