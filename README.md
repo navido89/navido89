@@ -12,7 +12,7 @@ I played soccer :soccer: professionally for a number of years in countries such 
 
 I am fluent in Farsi, German and English. While I am not working on any projects or studying, I spend time with my family :family_man_man_girl_boy: , in the gym :muscle: , play soccer :running_man: :soccer: &nbsp;or read data science blogs :newspaper:	. I truly believe that there is nothing more beautiful in life than learning new skills and reinventing yourself to become better as every day passes.
 
-⚡ Fun fact: Played the violine :violin: for 10 years :blush:
+⚡ Fun fact: Played the violine :violin: &nbsp; for 10 years :blush:
 <!--
 **navido89/navido89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
