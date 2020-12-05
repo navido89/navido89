@@ -1,8 +1,14 @@
 ### Hi there! 👋 :blush:
 
-I am Navid Mashinchi a Data Scientist based in Sacramento, California. I have been working in the field of analytics for more than four years and have been loving every second of it. I am a highly motivated individual who always loves to learn new technologies and solve problems. I focus on analyzing large sets of data and creating machine learning models with the goal to help businesses to make better decisions. I am experienced in Python, R, Data Cleaning, Data Visualization and Machine Learning.
+I am Navid Mashinchi a Data Scientist based in Sacramento, California. I have been working in the field of analytics for more than four years and have been loving every second of it. I am a highly motivated individual who always loves to learn new technologies and solve problems. I focus on analyzing large sets of data and creating machine learning models with the goal to help businesses to make better decisions. I am experienced in: 
 
-I played soccer professionally for a number of years in countries such as Germany and Canada. Following my soccer career, I attended and graduated from the University of British Columbia. While I was finishing my last year in University, I joined the Vancouver Whitecaps FC (Major League Soccer) as an analyst. Throughout my time with the Whitecaps, I developed a strong passion for learning new technologies. As a result, I decided to shift into the Data Science industry. I am currently enrolled in University of Denver's Data Science Masters program. My love for analyzing big data, coding and my willingness to help other people have shaped me as a person and help me reach my career goals.
++ Python 
++ R
++ Data Cleaning
++ Data Visualization
++ Machine Learning.
+
+I played soccer professionally for a number of years in countries such as Germany :de: and Canada :ca:. Following my soccer career, I attended and graduated from the University of British Columbia. While I was finishing my last year in University, I joined the Vancouver Whitecaps FC (Major League Soccer) as an analyst. Throughout my time with the Whitecaps, I developed a strong passion for learning new technologies. As a result, I decided to shift into the Data Science industry. I am currently enrolled in University of Denver's Data Science Masters program. My love for analyzing big data, coding and my willingness to help other people have shaped me as a person and help me reach my career goals.
 
 I am fluent in Farsi, German and English. While I am not working on any projects or studying, I spend time with my family, in the gym, play soccer or read data science blogs. I truly believe that there is nothing more beautiful in life than learning new skills and reinventing yourself to become better as every day passes.
 <!--
