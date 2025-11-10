@@ -1,14 +1,12 @@
 ### Hi there and welcome to my profile 👋 !
 
-I am Navid Mashinchi a Data Scientist based in Irvine, California. I have been working in the field of analytics for more than four years and have been loving every second of it. I am a highly motivated individual who always loves to learn new technologies and solve problems. I focus on analyzing large sets of data and creating machine learning models with the goal to help businesses to make better decisions. I am experienced in: 
+I am Navid Mashinchi a Senior Data Scientist at VF Corporation, passionate about building scalable AI and machine learning systems that drive real-world impact across global brands. At VF, I support the Vans brand 🛹, one of the most iconic names in apparel and footwear, by developing Machine Learning & AI solutions that power personalization, forecasting, and customer experience innovation. In addition to 
 
-+ Python
-+ R 
-+ Data Cleaning 
-+ Data Visualization 
-+ Machine Learning 
+Previously, I worked at Kohl’s, where I led machine learning initiatives in product recommendation and forecasting, helping to enhance retail decision-making at scale.
 
-I played soccer :soccer: professionally for a number of years in countries such as Germany :de: &nbsp; and Canada :canada: . Following my soccer career, I attended and graduated from the University of British Columbia. While I was finishing my last year in University, I joined the Vancouver Whitecaps FC (Major League Soccer) as an analyst. Throughout my time with the Whitecaps, I developed a strong passion for learning new technologies. As a result, I decided to shift into the Data Science industry. I am currently working at Kohl's as a Data Scientist, as an Adjunct Professor at the University of Denver and as a Data Science Mentor at SharpestMinds. My love for analyzing big data, coding, and my willingness to help other people have shaped me as a person and help me reach my career goals.
+My journey into data science started in an unexpected place. On the soccer field ⚽. I played professionally in Germany :de: &nbsp; and Canada :canada:, and later joined the Vancouver Whitecaps FC (MLS) as an analyst while completing my degree at the University of British Columbia. That experience sparked my passion for technology, data, and problem-solving, ultimately leading me into the world of data science.
+
+Outside of work, I’m an Adjunct Professor at the University of Denver, where I teach graduate-level Machine Learning and Database Systems, and I also mentor aspiring data scientists through SharpestMinds. 
 
 I am fluent in Farsi, German and English. While I am not working on any projects or studying, I spend time with my family :family_man_man_girl_boy: , in the gym :muscle: , play soccer :running_man: :soccer: &nbsp;or read data science blogs :newspaper:	. I truly believe that there is nothing more beautiful in life than learning new skills and reinventing yourself to become better as every day passes.
 
