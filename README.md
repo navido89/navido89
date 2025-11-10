@@ -4,7 +4,7 @@ I am Navid Mashinchi a Senior Data Scientist at VF Corporation, passionate about
 
 Previously, I worked at Kohl’s, where I led machine learning initiatives in product recommendation and forecasting, helping to enhance retail decision-making at scale.
 
-My journey into data science started in an unexpected place. On the soccer field ⚽. I played professionally in Germany :de: &nbsp; and Canada :canada:, and later joined the Vancouver Whitecaps FC (MLS) as an analyst while completing my degree at the University of British Columbia. That experience sparked my passion for technology, data, and problem-solving, ultimately leading me into the world of data science.
+My journey into data science started in an unexpected place. On the soccer field ⚽. I played professionally in Germany :de: &nbsp; and Canada :canada:,and later joined the Vancouver Whitecaps FC (MLS) as an analyst while completing my degree at the University of British Columbia. That experience sparked my passion for technology, data, and problem-solving, ultimately leading me into the world of data science.
 
 Outside of work, I’m an Adjunct Professor at the University of Denver, where I teach graduate-level Machine Learning and Database Systems, and I also mentor aspiring data scientists through SharpestMinds. 
 
